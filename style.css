@@ -130,9 +130,10 @@ hr{
 .blur{
 	position: absolute;
 	margin: auto;
-	background: white;
-	width: 70%;
+	background: grey;
+	width: 55%;
 	height: 30%;
+	left: 100px;
 	top: 0;
 	right: 0;
 	bottom: 0;
